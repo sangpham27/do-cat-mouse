@@ -1,0 +1,3 @@
+function Cat(name, leg){
+
+}
